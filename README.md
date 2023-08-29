@@ -1,1 +1,2 @@
-# Cataclysm_DDA_
+# SPL_1
+Cataclysm: Dark Days Ahead is a post-apocalyptic adventure game that challenges players to find treasure and fight with zombies and other dangers. The game is text-based, which means that players navigate the game world through text descriptions and make choices based on menus and commands. Cataclysm: Dark Days Ahead is a challenging and rewarding adventure and survival game that offers endless possibilities for exploration, creativity, and adventure.
